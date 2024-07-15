@@ -1,0 +1,1 @@
+export const serverUrl = "https://portfolio-2-koro.onrender.com";
